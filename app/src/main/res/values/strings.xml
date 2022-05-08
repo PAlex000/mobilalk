@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Music_Share</string>
+    <string name="name">Felhasználó</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="password_again">Jelszó ismét</string>
+    <string name="e_mail">E-mail cím</string>
+    <string name="cancel">Mégse</string>
+    <string name="loginasGuest">Bejelentkezés vendégként</string>
+    <string name="loginasGoogle">Bejelentkezés google fiókkal</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Url</string>
+    <string name="modify">Módosítás</string>
+    <string name="delete">Törlés</string>
+    <string name="title">Cím</string>
+    <string name="share">Megosztás</string>
+
+    <string-array name="music_item_title">
+        <item>Numb</item>
+        <item>In the End</item>
+        <item>What ive Done</item>
+        <item>New Divide</item>
+        <item>Crawling</item>
+    </string-array>
+
+    <string-array name="music_item_desc">
+        <item>Ez egy brutál jó zene!</item>
+        <item>Ez egy brutál jó zene!</item>
+        <item>Ez egy brutál jó zene!</item>
+        <item>Ez egy brutál jó zene!</item>
+        <item>Ez egy brutál jó zene!</item>
+    </string-array>
+
+    <string-array name="music_item_url">
+        <item>https://www.youtube.com/watch?v=kXYiU_JCYtU</item>
+        <item>https://www.youtube.com/watch?v=eVTXPUF4Oz4</item>
+        <item>https://www.youtube.com/watch?v=8sgycukafqQ</item>
+        <item>https://www.youtube.com/watch?v=ysSxxIqKNN0</item>
+        <item>https://www.youtube.com/watch?v=Gd9OhYroLN0</item>
+
+    </string-array>
+
+    <array name="music_item_img">
+        <item>@drawable/numb</item>
+        <item>@drawable/in_the_end</item>
+        <item>@drawable/what_ive_done</item>
+        <item>@drawable/new_divide</item>
+        <item>@drawable/crawling</item>
+    </array>
+
+
+</resources>
